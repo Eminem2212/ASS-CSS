@@ -1,0 +1,16 @@
+body {
+  background-color: blueviolet;
+  color: rgb(158, 216, 216); 
+  border: black 20px;
+  justify-content: flex-end
+}
+
+#Fstyle{
+background-color: rgb(202, 187, 187)
+content: '\e8c2';
+}
+ .reserve{
+  background-color: grey;
+  border-radius: 20px;
+  margin-bottom;: content: '\e8b8';;
+}
